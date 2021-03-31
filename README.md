@@ -1,5 +1,5 @@
 <a href="https://github.com/AnnekeSchuette/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnnekeSchuette&show_icons=true&theme=dark&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnnekeSchuette&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/AnnekeSchuette/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnekeSchuette&theme=radical" />
