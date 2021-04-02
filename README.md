@@ -1,3 +1,4 @@
+**This profile looks awesome in darkmode ✨**
 <a href="https://github.com/AnnekeSchuette/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnnekeSchuette&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=8957e5" />
 </a>
