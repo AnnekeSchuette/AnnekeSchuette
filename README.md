@@ -22,6 +22,6 @@ My perspective on life (and work) contains a deep believe that **every** problem
 
 I am always excited about the awesome results when collaborating with open minded people who are driven by intrinsic motivation. Therefore I like an open error / opinion culture, which allows everyone to flourish.
 
-If you would like to have me on your team and have any further questions, feel free to send me a DM on [LinkedIn](https://www.linkedin.com/in/annekeschuette-hh/).
+If you would like to have me on your team or have any further questions, feel free to send me a DM on [LinkedIn](https://www.linkedin.com/in/annekeschuette-hh/).
 
 
