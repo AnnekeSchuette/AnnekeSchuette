@@ -18,7 +18,7 @@ Hi, I'm Anneke 👩🏻‍🦰✌🏻
 
 I currently rebooted my career as Web Developer at the Coding Bootcamp of [neue fische](https://www.neuefische.de/) to satisfy my passion for technology, exploration and agile development.
 
-My perspective on life (and work) contains a deep believe that EVERY problem can be solved. Therefore I've got a very itchy motivation on mastering challenges and improving things as well as continuous personal growth. My approach: candidness, compassion, realistic optimism and contagious enthusiasm. 
+My perspective on life (and work) contains a deep believe that _every_ problem can be solved. Therefore I've got a very itchy motivation on mastering challenges and improving things as well as continuous personal growth. My approach: candidness, compassion, realistic optimism and contagious enthusiasm. 
 
 I am always excited about the awesome results when collaborating with open minded people who are driven by intrinsic motivation. Therefore I like an open error / opinion culture, which allows everyone to flourish.
 
