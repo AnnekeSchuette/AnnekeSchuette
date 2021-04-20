@@ -16,7 +16,7 @@
 ## About 
 Hi, I'm Anneke 👩🏻‍🦰✌🏻
 
-to satisfy my passion for technology, exploration and agile development after working as a Software Project Manager I recently rebooted my career as **Frontend Engineer**, aiming to become **Fullstack Web Dev** some day... 🌟
+after working as a Software Project Manager I recently rebooted my career as **Frontend Engineer** to satisfy my passion for technology, exploration and agile development, aiming to become **Fullstack Web Dev** some day... 🤚🏻🌟
 In order to refurbish my coding skills I attended a three-month Coding Bootcamp of [neue fische](https://www.neuefische.de/). (MERN stack - take a look at my capstone project, if you like! 🚀😊).
 
 As natural born solution seeker, I've got an itchy motivation for mastering challenges and improving things as well as pushing my own personal evolution forward. My approach: curiosity, an analytical perspective as well as a tackle mentality, but also compassion, realistic optimism and contagious enthusiasm. 
