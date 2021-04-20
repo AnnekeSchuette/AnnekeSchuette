@@ -16,11 +16,12 @@
 ## About 
 Hi, I'm Anneke 👩🏻‍🦰✌🏻
 
-I recently rebooted my career as Web Developer to satisfy my passion for technology, exploration and agile development in a three-month Coding Bootcamp of [neue fische](https://www.neuefische.de/). (MERN stack - take a look at my capstone project, if you like! 🚀😊)
+to satisfy my passion for technology, exploration and agile development after working as a Software Project Manager I recently rebooted my career as **Frontend Engineer**, aiming to become **Fullstack Web Dev** some day... 🌟
+In order to refurbish my coding skills I attended a three-month Coding Bootcamp of [neue fische](https://www.neuefische.de/). (MERN stack - take a look at my capstone project, if you like! 🚀😊).
 
-As natural born solution seeker, I've got an itchy motivation for mastering challenges and improving things as well as pushing my own personal evolution forward. My approach: candidness, compassion, realistic optimism and contagious enthusiasm. 
+As natural born solution seeker, I've got an itchy motivation for mastering challenges and improving things as well as pushing my own personal evolution forward. My approach: curiosity, an analytical perspective as well as a tackle mentality, but also compassion, realistic optimism and contagious enthusiasm. 
 
-I am always excited about the awesome results when collaborating with open minded people who are driven by intrinsic motivation. Therefore I like an open error / opinion culture, which allows everyone to flourish.
+I am always excited about the awesome results when collaborating with open minded people who are driven by intrinsic motivation. Therefore I like an open error / opinion culture, which allows everyone to thrive and grow.
 
 If you would like to have me on your team or have any further questions, feel free to send me a DM on [LinkedIn](https://www.linkedin.com/in/annekeschuette-hh/).
 
