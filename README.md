@@ -1,3 +1,4 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=AnnekeSchuette&label=Profile%20views&color=f76272&style=flat" alt="AnnekeSchuette" /> </p>
 <a href="https://github.com/AnnekeSchuette/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnnekeSchuette&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=f76272" />
 </a>
@@ -13,12 +14,11 @@
 
 #### _For an awesome experience view this profile in darkmode_ ✨
 
-## About 
-Hi, I'm Anneke 👩🏻‍🦰✌🏻
+# Hi, I'm Anneke 👩🏻‍🦰✌🏻
 
 after working as a Software Project Manager I recently rebooted my career as **Frontend Engineer** to satisfy my passion for technology, exploration and agile development, aiming to become **Fullstack Web Dev** some day... 🙌✨
 
-In order to refurbish my coding skills I attended a three-month Coding Bootcamp of [neue fische](https://www.neuefische.de/). (MERN stack - take a look at my capstone project, if you like! 🚀😊).
+In order to refurbish my coding skills I attended a three-month Coding Bootcamp of [neue fische](https://www.neuefische.de/) (MERN stack - take a look at my capstone project, if you like! 🚀😊).
 
 As natural born solution seeker, I've got an itchy motivation for mastering challenges and improving things as well as pushing my own personal evolution forward. My approach: curiosity, an analytical perspective as well as a tackle mentality, but also compassion, realistic optimism and contagious enthusiasm. 
 
