@@ -24,6 +24,6 @@ As natural born solution seeker, I've got an itchy motivation for mastering chal
 
 I am always excited about the awesome results when collaborating with open minded people who are driven by intrinsic motivation. Therefore I like an open error / opinion culture, which allows everyone to thrive and grow.
 
-If you would like to have me on your team or have any further questions, feel free to send me a DM on [LinkedIn](https://www.linkedin.com/in/annekeschuette-hh/).
+If you'd like to team up with me on a project or simply like to connect, feel free to send me a DM/invite on [LinkedIn](https://www.linkedin.com/in/annekeschuette-hh/).
 
 
