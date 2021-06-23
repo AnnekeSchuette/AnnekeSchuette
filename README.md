@@ -8,9 +8,9 @@
 <a href="https://github.com/AnnekeSchuette/capstone-project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnnekeSchuette&repo=capstone-project&show_icons=true&theme=radical&hide_border=true&langs_count=3&bg_color=0d1117&text_color=ffffff&title_color=f76272" />
 </a>
-<a href="https://github.com/AnnekeSchuette/personal-website">
+<!-- a href="https://github.com/AnnekeSchuette/personal-website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnnekeSchuette&repo=personal-website&show_icons=true&theme=radical&hide_border=true&langs_count=3&bg_color=0d1117&text_color=ffffff&title_color=f76272" />
-</a>
+</a -->
 
 #### _For an awesome experience view this profile in darkmode_ ✨
 
