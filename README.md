@@ -16,11 +16,12 @@
 
 # Hi there! 👩🏻‍🦰✌🏻
 
-seems like you've stumbled upon an awesome gem on the webz! Let me introduce myself:
+Seems like you've stumbled upon an awesome gem on the webz! 💎 
+Let me introduce myself:
 
 - Web Developer and UI Designer since 2007
 - experienced IT Project Manager and leader of software development teams for half a decade (mostly e-Commerce projects, B2C and B2C)
-- reboot as **fullstack Software Developer** missing hands-on-development
+- reboot as **Fullstack Software Developer** missing hands-on-development
 - now working as a Software Developer in healthcare for almost two years 
 
 This journey totally reflects my passion for technology, exploration and agile development. 🙌✨
@@ -36,7 +37,8 @@ Since I am working on non-public projects, notice that this account is now mainl
 Fun facts: 
 - Action movie narcoleptic 💥😴
 - I know all 151(+1) first-gen Pokémon 🤓
-- I breed dinosaurs to relax 🎮🥚🦖 
+- to relax I breed dinosaurs 🎮🥚🦖 
+
 
 _AD: In order to refurbish my coding skills I attended a three-month Coding Bootcamp of [neue fische](https://www.neuefische.de/) in 2021 (MERN stack - take a look at my capstone project, if you like! 🚀😊)._
 
