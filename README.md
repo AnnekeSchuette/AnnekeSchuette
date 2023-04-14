@@ -22,7 +22,7 @@ Let me introduce myself:
 - Web Developer and UI Designer since 2007
 - experienced IT Project Manager and leader of software development teams for half a decade (mostly e-Commerce projects, B2C and B2C)
 - reboot as **Fullstack Software Developer** missing hands-on-development
-- now working as a Software Developer in healthcare for almost two years 
+- working as a Software Developer in the public healthcare sector for almost two years by now
 
 This journey totally reflects my passion for technology, exploration and agile development. 🙌✨
 
