@@ -14,16 +14,25 @@
 
 #### _For an awesome experience view this profile in darkmode_ ✨
 
-# Hi, I'm Anneke 👩🏻‍🦰✌🏻
+# Hi there! 👩🏻‍🦰✌🏻
 
-after working as a Software Project Manager I recently rebooted my career as **Frontend Engineer** to satisfy my passion for technology, exploration and agile development, aiming to become **Fullstack Web Dev** some day... 🙌✨
+seems like you've stumbled upon an awesome gem on the webz! Let me introduce myself:
 
-In order to refurbish my coding skills I attended a three-month Coding Bootcamp of [neue fische](https://www.neuefische.de/) (MERN stack - take a look at my capstone project, if you like! 🚀😊).
+- Web Developer and UI Designer since 2007
+- experienced IT Project Manager and leader of software development teams for half a decade (mostly e-Commerce projects, B2C and B2C)
+- reboot as **fullstack Software Developer** missing hands-on-development
+- now working as a Software Developer in healthcare for almost two years 
+
+This journey totally reflects my passion for technology, exploration and agile development. 🙌✨
 
 As natural born solution seeker, I've got an itchy motivation for mastering challenges and improving things as well as pushing my own personal evolution forward. My approach: curiosity, an analytical perspective as well as a tackle mentality, but also compassion, realistic optimism and contagious enthusiasm. 
+I love to hone my skills and knowledge on a daily basis. The topics that peak my interests at the moment are accessibility, designsystems, testing and testing related concepts, DevOps and all the exciting everchanging technologies and frameworks. 
 
 I am always excited about the awesome results when collaborating with open minded people who are driven by intrinsic motivation. Therefore I like an open error / opinion culture, which allows everyone to thrive and grow.
 
 If you'd like to team up with me on a project or simply like to connect, feel free to send me a DM/invite on [LinkedIn](https://www.linkedin.com/in/annekeschuette-hh/).
+Since I am working on non-public projects, notice that this account is now mainly used as a playground.
 
+
+_AD: In order to refurbish my coding skills I attended a three-month Coding Bootcamp of [neue fische](https://www.neuefische.de/) in 2021 (MERN stack - take a look at my capstone project, if you like! 🚀😊)._
 
