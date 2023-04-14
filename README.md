@@ -33,6 +33,10 @@ I am always excited about the awesome results when collaborating with open minde
 If you'd like to team up with me on a project or simply like to connect, feel free to send me a DM/invite on [LinkedIn](https://www.linkedin.com/in/annekeschuette-hh/).
 Since I am working on non-public projects, notice that this account is now mainly used as a playground.
 
+Fun facts: 
+- Action movie narcoleptic 💥😴
+- I know all 151(+1) first-gen Pokémon 🤓
+- I breed dinosaurs to relax 🎮🥚🦖 
 
 _AD: In order to refurbish my coding skills I attended a three-month Coding Bootcamp of [neue fische](https://www.neuefische.de/) in 2021 (MERN stack - take a look at my capstone project, if you like! 🚀😊)._
 
