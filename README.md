@@ -27,7 +27,7 @@ Let me introduce myself:
 This journey totally reflects my passion for technology, exploration and agile development. 🙌✨
 
 As natural born solution seeker, I've got an itchy motivation for mastering challenges and improving things as well as pushing my own personal evolution forward. My approach: curiosity, an analytical perspective as well as a tackle mentality, but also compassion, realistic optimism and contagious enthusiasm. 
-I love to hone my skills and knowledge on a daily basis. The topics that peak my interests at the moment are accessibility, designsystems, testing and testing related concepts, DevOps and all the exciting everchanging technologies and frameworks. 
+I love to hone my skills and knowledge on a daily basis. The topics that peak my interest at the moment are web standards, accessibility, designsystems, testing and testing related concepts, DevOps and innovative and/or convenient frameworks and technologies in general. 
 
 I am always excited about the awesome results when collaborating with open minded people who are driven by intrinsic motivation. Therefore I like an open error / opinion culture, which allows everyone to thrive and grow.
 
