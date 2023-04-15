@@ -38,6 +38,7 @@ Fun facts:
 - Action movie narcoleptic 💥😴
 - I know all 151(+1) first-gen Pokémon 🤓
 - to relax I breed dinosaurs 🎮🥚🦖 
+- Professional seagull imitator 🌊📢🐦
 
 
 _AD: In order to refurbish my coding skills I attended a three-month Coding Bootcamp of [neue fische](https://www.neuefische.de/) in 2021 (MERN stack - take a look at my capstone project, if you like! 🚀😊)._
