@@ -26,19 +26,15 @@ Let me introduce myself:
 
 This journey totally reflects my passion for technology, exploration and agile development. 🙌✨
 
-As natural born solution seeker, I've got an itchy motivation for mastering challenges and improving things as well as pushing my own personal evolution forward. My approach: curiosity, an analytical perspective as well as a tackle mentality, but also compassion, realistic optimism and contagious enthusiasm. 
-I love to hone my skills and knowledge on a daily basis. The topics that peak my interest at the moment are web standards, accessibility, designsystems, testing and testing related concepts, DevOps and innovative and/or convenient frameworks and technologies in general. 
-
-I am always excited about the awesome results when collaborating with open minded people who are driven by intrinsic motivation. Therefore I like an open error / opinion culture, which allows everyone to thrive and grow.
-
-If you'd like to team up with me on a project or simply like to connect, feel free to send me a DM/invite on [LinkedIn](https://www.linkedin.com/in/annekeschuette-hh/).
-Since I am working on non-public projects, notice that this account is now mainly used as a playground.
-
-Fun facts: 
+Fun facts about me: 
 - Action movie narcoleptic 💥😴
 - I know all 151(+1) first-gen Pokémon 🤓
 - to relax I breed dinosaurs 🎮🥚🦖 
 - Professional seagull imitator 🌊📢🐦
+
+If you'd like to team up with me on a project or simply like to connect, feel free to send me a DM/invite on [LinkedIn](https://www.linkedin.com/in/annekeschuette-hh/).
+
+Since I am working on non-public projects, notice that this account is now mainly used as a playground.
 
 
 _AD: In order to refurbish my coding skills I attended a three-month Coding Bootcamp of [neue fische](https://www.neuefische.de/) in 2021 (MERN stack - take a look at my capstone project, if you like! 🚀😊)._
