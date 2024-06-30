@@ -21,21 +21,19 @@ Let me introduce myself:
 
 - Web Developer and UI Designer since 2007
 - experienced IT Project Manager and leader of software development teams for half a decade (mostly e-Commerce projects, B2C and B2C)
-- reboot as **Fullstack Software Developer** missing hands-on-development
-- working as a Software Developer in the public healthcare sector for almost two years by now
-
-This journey totally reflects my passion for technology, exploration and agile development. 🙌✨
+- reboot as **Fullstack Software Developer** due to missing hands-on-development
+- working as a Software Developer in the public healthcare sector since 2021
+  
+My journey so far reflects my passion for technology, exploration and agile development. 🙌✨
 
 Fun facts about me: 
 - Action movie narcoleptic 💥😴
-- I know all 151(+1) first-gen Pokémon 🤓
-- to relax I breed dinosaurs 🎮🥚🦖 
+- knows all 151(+1) first-gen Pokémon 🤓
+- breeds dinosaurs to relax 🎮🥚🦖 
 - Professional seagull imitator 🌊📢🐦
+- loves painting insects and water creatures 🪲🐙
+- would like to try out playing and/or creating tabletop role-playing games 🧝‍♂️
 
 If you'd like to team up with me on a project or simply like to connect, feel free to send me a DM/invite on [LinkedIn](https://www.linkedin.com/in/annekeschuette-hh/).
 
-Since I am working on non-public projects, notice that this account is now mainly used as a playground.
-
-
-_AD: In order to refurbish my coding skills I attended a three-month Coding Bootcamp of [neue fische](https://www.neuefische.de/) in 2021 (MERN stack - take a look at my capstone project, if you like! 🚀😊)._
-
+Note: Since I mostly work on non-public projects, this account is now mainly used as a playground.
