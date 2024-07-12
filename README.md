@@ -16,8 +16,8 @@
 Seems like you've stumbled upon an awesome gem on the webz! 💎 
 Let me introduce myself:
 
-- Web Developer and UI Designer since 2007
-- experienced IT Project Manager and leader of software development teams for half a decade (mostly e-Commerce projects, B2C and B2C)
+- Web Developer with passion for UI/UX and accessibility since 2007
+- experienced IT Project Manager and leader of software development teams for half a decade (mostly e-Commerce projects, B2B and B2C)
 - reboot as **Fullstack Software Developer** due to missing hands-on-development
 - working as a Software Developer in the public healthcare sector since 2021
   
