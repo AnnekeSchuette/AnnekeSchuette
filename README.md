@@ -9,8 +9,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnnekeSchuette&repo=personal-website&show_icons=true&theme=radical&hide_border=true&langs_count=3&bg_color=0d1117&text_color=ffffff&title_color=f76272" />
 </a -->
 
-#### _For an awesome experience view this profile in darkmode_ ✨
-
 # Hi there! 👩🏻‍🦰✌🏻
 
 Seems like you've stumbled upon an awesome gem on the webz! 💎 
