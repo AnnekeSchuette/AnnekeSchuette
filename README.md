@@ -17,11 +17,10 @@ Seems like you've stumbled upon an awesome gem on the webz! 💎
 Let me introduce myself:
 
 - Web Developer with passion for UI/UX and accessibility since 2007
-- experienced IT Project Manager and leader of software development teams for half a decade (mostly e-Commerce projects, B2B and B2C)
-- reboot as **Fullstack Software Developer** due to missing hands-on-development
-- working as a Software Developer in the public healthcare sector since 2021
+- experienced in IT Project Management (mostly e-Commerce projects, B2B and B2C) and leading teams in agile software development
+- Fullstack Software Engineer in the public healthcare sector since 2021
   
-My journey so far reflects my passion for technology, exploration and agile development. 🙌✨
+My journey so far reflects my passion for technology, exploration, problem solving and agile development. 🙌✨
 
 Fun facts about me: 
 - Action movie narcoleptic 💥😴
